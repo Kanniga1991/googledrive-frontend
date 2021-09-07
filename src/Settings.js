@@ -1,6 +1,6 @@
 let getSettings = () => {
 	return {
-		api : "https://googledrive-backend.herokuapp.com/"		
+		api : "https://googledrive-backend.herokuapp.com"		
 	};
 };
 
